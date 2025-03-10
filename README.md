@@ -11,7 +11,6 @@ I'm a **front-end developer and UX/UI designer** with a passion for crafting sea
 - **Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind
 - **CMS & Web Platforms:** WordPress, Shopify, Custom CMS Solutions
 - **Design & Prototyping:** Adobe Creative Suite, Figma, XD, Framer
-- **Marketing & SEO:** Google Ads, Facebook Ads, Lead Generation, Web Analytics
 - **Other Tools:** GitHub, Agile Methodologies, API Integrations
 
 ---
