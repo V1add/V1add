@@ -18,25 +18,6 @@ I'm a **front-end developer and UX/UI designer** with a passion for crafting sea
 
 ---
 
-## 🛠️ **Featured Projects**
-
-### 🎨 **Dynamic Website for Flooring Industry**
-🚀 Built a high-performance CMS-driven website optimizing UX and conversions.
-
-🔗 [Live Demo](#) | 📂 [Repo](#)
-
-### 📊 **Marketing Dashboard for Lead Generation**
-📈 Developed an interactive dashboard for tracking customer engagement and analytics.
-
-🔗 [Live Demo](#) | 📂 [Repo](#)
-
-### 🎵 **Music Portfolio Site**
-🎸 Designed a fully responsive portfolio showcasing original compositions and collaborations.
-
-🔗 [Live Demo](https://vladoleaga.framer.website/) | 📂 [Repo](#)
-
----
-
 ## 📫 **Let's Connect!**
 
 💼 [LinkedIn](https://linkedin.com/in/vladimir-oleaga)  
