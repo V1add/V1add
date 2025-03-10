@@ -1,5 +1,3 @@
-![Header](https://source.unsplash.com/1600x400/?technology,code)
-
 # 👋 Hey there! I'm **Vlad Oleaga**
 
 ### 🎸 Developer | UX/UI Designer | Musician
