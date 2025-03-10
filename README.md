@@ -25,8 +25,8 @@ I'm a **front-end developer and UX/UI designer** with a passion for crafting sea
 🎸 [Portfolio](https://vladoleaga.framer.website/)  
 
 <style>
-  div#git-profile-icons a {
-    text-decoration: none !important;
-  }
+div#user-content-git-profile-icons {    
+  text-decoration: none !important;
+}
 
 </style>
