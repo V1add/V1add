@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm **Vlad Oleaga**
 
-### 🎸 Developer | UX/UI Designer | Musician
+### Developer | UX/UI Designer
 
 I'm a **front-end developer and UX/UI designer** with a passion for crafting seamless digital experiences. With over **10 years in the flooring industry** and a strong background in **CMS customization, web development, and digital marketing**, I specialize in building intuitive, high-performance websites. 
 
