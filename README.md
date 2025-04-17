@@ -38,6 +38,7 @@ I'm a **front-end developer and UX/UI designer** with a passion for crafting sea
 
 ## 📫 **Let's Connect!**
 
-💼 [LinkedIn](https://linkedin.com/in/vladimir-oleaga)  
-📧 [Email](mailto:vladimiroleaga@gmail.com)  
-🎸 [Portfolio](https://vladoleaga.framer.website/)  
+💼 <a href="https://linkedin.com/in/vladimir-oleaga" target="_blank">LinkedIn</a>  
+📧 <a href="mailto:vladimiroleaga@gmail.com" target="_blank">Email</a>  
+🎸 <a href="https://vladoleaga.framer.website/" target="_blank">Portfolio</a>
+
